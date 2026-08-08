@@ -1,1 +1,24 @@
 
+# Day 02 - Random Numbers
+
+## Description
+
+Generate three unique random integers between 100 and 999 that are divisible by 5.
+
+## Concepts Covered
+
+- Random number generation
+- `random.randint()`
+- Lists
+- While loops
+- Conditional statements
+- Modulo operator
+- Duplicate checking
+
+## Example Output
+
+```text
+Generated numbers:
+125
+640
+875
